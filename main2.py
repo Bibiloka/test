@@ -45,6 +45,8 @@ for i in range(len(students2)):
 
 with open("f.json",'w') as file:
     json.dump(students3, file)
+#дима лох хахахаххаахаххаахахаххахахахахахахахахахахахахахахахахахахахаха(комраков)
+
 
 
 
